@@ -1,16 +1,7 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue';
-import MenuPrincipal from './components/Menu.vue'
+<script setup lang="ts">
+import pagina from "./components/pagina.vue";
 </script>
 
 <template>
-    <div class="container-fluid">
-        <MenuPrincipal/>
-    </div>
-    <HelloWorld/>
-  
+  <pagina/>
 </template>
-
-<style scoped>
-
-</style>
