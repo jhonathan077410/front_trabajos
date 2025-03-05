@@ -1,9 +1,9 @@
 # front_trabajos
 descripcion del proyecto
-## integrantes
-  #integrante 1
-  #integrante 2
-  #integrante 3
+##integrantes
+  * integrante 1
+  * integrante 2
+  * integrante 3
 # toda la informacion para copilar el proyecto
 
 Inicializar el Proyecto
