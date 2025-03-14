@@ -53,21 +53,6 @@
         </ul>
     </nav>
 </header>
-<div>
-      <div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">nombre y apellido</label>
-  <input type="nombre" class="form-control" id="exampleFormControlInput1" placeholder="ingrese tu nombre y apellido completo">
-</div>
-<div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">email</label>
-  <input type="correo" class="form-control" id="exampleFormControlInput1" placeholder="Ingrese tu correo electronico">
-</div>
-<div class="mb-3">
-  <label for="exampleFormControlTextarea1" class="form-label">¿por que quieres trabajar en bmw? </label>
-  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-</div>
-<button type="submit">enviar formulario</button>
-</div>
 
 
 </template>
@@ -144,15 +129,6 @@ nav li {
 .menu > li:hover .submenu {
   display: inline-flex;
 }
-.form-label {
-  color: plum;
-  font-size: 1.2em;
-  font-weight: bold;
-}
-h2 {
-  text-align: center;
-  color: #3498db;
-  margin-bottom: 20px;
-}
+
 </style>
 
